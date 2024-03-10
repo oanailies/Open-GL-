@@ -1,0 +1,53 @@
+# Blender 3.6.5 MTL File: 'proiect_pg.blend'
+# www.blender.org
+
+newmtl Beach_Towels_1
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.054000 0.054000 0.054000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Beach_Towels_diffuse.jpg
+
+newmtl Default.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd 45364125-starfish-skin-close-up-of-a-cushion-sea-star-oreaster-reticulatus-underwater-in-the-caribbean-sea.jpg
+
+newmtl Material__408
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd tolldo2.jpg
+
+newmtl Material__439
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd gas stationdiffusemap.jpg
+
+newmtl watchtower
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Wood_Tower_Col.jpg
+map_Bump -bm 1.000000 Wood_Tower_Nor.jpg

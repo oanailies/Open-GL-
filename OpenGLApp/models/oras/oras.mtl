@@ -1,0 +1,184 @@
+# Blender 3.6.5 MTL File: 'proiect_pg.blend'
+# www.blender.org
+
+newmtl 01___Default
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 12984_beach-umbrella_diffuse.jpg
+
+newmtl Beach_Ball_rubber
+Ns 26.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.567000 0.567000 0.567000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Beach_Ball_diffuse.jpg
+
+newmtl Beach_Ball_transparent_plastic
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.432000 0.432000 0.432000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.600000
+illum 9
+map_Kd Beach_Ball_diffuse.jpg
+
+newmtl Default
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd 45364125-starfish-skin-close-up-of-a-cushion-sea-star-oreaster-reticulatus-underwater-in-the-caribbean-sea.jpg
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd frontend-large.jpg
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 360_F_290869161_c3F4iLkydIr9RrBeup35Qz07QXR53MtW.jpg
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd fmatn.jpg
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ef238b5a703395ae88807b1e5eb4c5ad.jpg
+
+newmtl Material.006
+Ns 96.078415
+Ka 1.000000 1.000000 1.000000
+Ks 0.150794 0.150794 0.150794
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Render3.png
+
+newmtl Material.008
+Ns 96.078415
+Ka 1.000000 1.000000 1.000000
+Ks 0.825397 0.825397 0.825397
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd depositphotos_12125391-stock-photo-white-metal-texture-bright-background.jpg
+
+newmtl Material.009
+Ns 96.078415
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 119498958977780800stop_sign_right_font_mig_.svg.med.png
+
+newmtl Material.010
+Ns 96.078415
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 119498958977780800stop_sign_right_font_mig_.svg.med.png
+
+newmtl Metal
+Ns 96.078415
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Render3.png
+
+newmtl lambert3SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd VL1X8_002.png
+
+newmtl lambert4SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd stalk_003_gradient.jpg
+
+newmtl material46
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd blocuri.jpeg
+
+newmtl watchtower
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Wood_Tower_Col.jpg
+map_Bump -bm 1.000000 
+Wood_Tower_Nor.jpg
+
+newmtl wire_204204204
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd CordylineFREE_BaseColor.png
